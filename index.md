@@ -5,5 +5,8 @@ for x in range(8):
     print(x)
 ```
 
+- [x] List item 1
+- [ ] List item 2
+
 ![An image of a donkey](https://static01.nyt.com/images/2015/06/17/us/17TRUMPweb-issues/17TRUMPweb-issues-thumbLarge.jpg)
 ###### It's great, isn't it?
